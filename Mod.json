@@ -1,0 +1,11 @@
+{
+  "geode": "5.2.10",
+  "gd": {
+    "android": "2.2081"
+  },
+  "id": "eeee.cheat",
+  "name": "EEEE Cheat",
+  "version": "1.0.0",
+  "developer": "EEEE",
+  "description": "EEEE Cheat for Geometry Dash"
+}
